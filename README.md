@@ -2,27 +2,22 @@
   <img src="banner.png" alt="Harsh Sharma Banner" width="100%">
 </p>
 
----
-
-## 👨‍💻 About Me
+## 👋 Introduction
 
 I'm an Electronics Engineering student at **NIT Kurukshetra** passionate about building scalable full-stack web applications and continuously improving my software development skills.
 
 <table align="center" border="0">
 <tr>
-
+  
 <td align="center" width="25%">
 🌱 Learning <br> React, Node.js, PostgreSQL & TypeScript
 </td>
-
 <td align="center" width="25%">
 🚀 Interested in <br> Scalable Web Applications & Backend Architecture
 </td>
-
 <td align="center" width="25%">
 📚 Exploring <br> System Design & Cloud Computing
 </td>
-
 <td align="center" width="25%">
 🎯 Working towards <br> Becoming a Software Engineer
 </td>
@@ -30,11 +25,9 @@ I'm an Electronics Engineering student at **NIT Kurukshetra** passionate about b
 </tr>
 </table>
 
----
+## 🛠 Technical Expertise
 
-## 🛠 Tech Stack
-
-| Category | Technologies |
+| **Category** | **Technologies** |
 |----------|--------------|
 | Languages | <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp" /> |
 | Frontend | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" /> |
@@ -66,8 +59,6 @@ React • Node.js • Express • MongoDB • JWT • Chart.js
 
 🔗 Repository
 
----
-
 ### ✅ Task Management System
 
 > A productivity-focused task management application that helps users organize, prioritize, and track tasks through a clean and responsive interface.
@@ -94,14 +85,12 @@ React • Node.js • Express • MongoDB • JWT
 
 <p align="center"> 
   <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=harsh0190&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/> 
-  <img height="170" src="https://streak-stats.demolab.com?user=harsh0190&theme=github-dark&hide_border=true"/> 
-</p>
-
-<p align="center"> 
   <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=harsh0190&layout=compact&theme=github_dark&hide_border=true"/> 
 </p>
 
----
+<p align="center"> 
+  <img height="170" src="https://streak-stats.demolab.com?user=harsh0190&theme=github-dark&hide_border=true"/>  
+</p>
 
 ## 📊 Contribution Activity
 
@@ -119,18 +108,14 @@ React • Node.js • Express • MongoDB • JWT
 - 📚 Learning System Design
 - 💻 Practicing Data Structures & Algorithms
 
----
-
 ## 📜 Certifications & Achievements
 
 - 💯 Solved 100+ DSA problems on LeetCode
 - 🎖️ NIELIT - Embedded Systems Certification
 - 💼 Full Stack Development Intern - CodTech IT Solutions Pvt. Ltd.
 
----
 
 ## 🤝 Connect With Me
-
 <p align="center">
 <a href="https://linkedin.com/in/harsh-sharma0190/">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
@@ -140,9 +125,10 @@ React • Node.js • Express • MongoDB • JWT
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
 </a>
 
+<a href="https://github.com/harsh0190">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 </p>
-
----
 
 <p align="center">
 Thanks for visiting 😊
