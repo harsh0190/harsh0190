@@ -24,7 +24,7 @@ I'm an Electronics Engineering student at **NIT Kurukshetra** passionate about b
 | Category | Technologies |
 |----------|--------------|
 | Languages | <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp" /> |
-| Frontend | <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" /> |
+| Frontend | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" /> |
 | Backend | <img src="https://skillicons.dev/icons?i=nodejs,express" /> |
 | Databases | <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" /> |
 | Tools | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" /> |
@@ -110,8 +110,9 @@ React • Node.js • Express • MongoDB • JWT
 
 ## 📜 Certifications & Achievements
 
-- 💯 Solved 100+ DSA problems
-- 🎖️ NPTEL / Coursera Certifications
+- 💯 Solved 100+ DSA problems on LeetCode
+- 🎖️ NIELIT - Embedded Systems Certification
+- 💼 Full Stack Development Intern - CodTech IT Solutions Pvt. Ltd.
 
 ---
 
@@ -122,7 +123,7 @@ React • Node.js • Express • MongoDB • JWT
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 </a>
   
-<a href="mailto:hsfbd123@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hsfbd123@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
 </a>
 
@@ -131,5 +132,7 @@ React • Node.js • Express • MongoDB • JWT
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile!
+Thanks for visiting 😊
+<br>
+Feel free to explore my repositories and connect with me.⭐
 </p>
