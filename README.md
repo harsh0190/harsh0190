@@ -2,24 +2,15 @@
   <img src="banner.png" alt="Harsh Sharma Banner" width="100%">
 </p>
 
-<h1 align="center">Harsh Sharma</h1>
-
-<p align="center">
-Full Stack Developer | MERN Stack | Problem Solver
-<br>
-Building scalable web applications and continuously learning modern technologies.
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
 I'm an Electronics Engineering student at **NIT Kurukshetra** passionate about building scalable full-stack web applications and continuously improving my software development skills.
 
-- 🌱 Learning React, Node.js, PostgreSQL & TypeScript
-- 🚀 Interested in scalable web applications and backend architecture
-- 📚 Exploring System Design & Cloud Computing
-- 🎯 Working towards becoming a Software Engineer
+| 🌱 Learning | 🚀 Interested In | 📚 Exploring | 🎯 Working Towards |
+|:-----------:|:----------------:|:------------:|:-------:|
+| React, Node.js,<br>PostgreSQL & TypeScript | Scalable Web Applications<br>and Backend Architecture | System Design<br>& Cloud Computing | Becoming a<br>Software Engineer |
 
 ---
 
