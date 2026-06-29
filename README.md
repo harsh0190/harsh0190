@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.png" alt="Harsh Sharma Banner" width="100%">
+</p>
+
 <h1 align="center">Harsh Sharma</h1>
 
 <p align="center">
