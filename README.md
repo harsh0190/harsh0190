@@ -1,4 +1,4 @@
-<h1 align="center">HARSH SHARMA</h1>
+<h1 align="center">Harsh Sharma</h1>
 
 <p align="center">
 Full Stack Developer | MERN Stack | Problem Solver
@@ -10,7 +10,7 @@ Building scalable web applications and continuously learning modern technologies
 
 ## 👨‍💻 About Me
 
-Electronics Engineering student at NIT Kurukshetra with passionate about Full Stack Development.
+I'm an Electronics Engineering student at **NIT Kurukshetra** passionate about building scalable full-stack web applications and continuously improving my software development skills.
 
 - 🌱 Learning React, Node.js, PostgreSQL & TypeScript
 - 🚀 Interested in scalable web applications and backend architecture
@@ -26,7 +26,7 @@ Electronics Engineering student at NIT Kurukshetra with passionate about Full St
 | Languages | <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp" /> |
 | Frontend | <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" /> |
 | Backend | <img src="https://skillicons.dev/icons?i=nodejs,express" /> |
-| Database | <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" /> |
+| Databases | <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" /> |
 | Tools | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" /> |
 
 ---
@@ -35,7 +35,7 @@ Electronics Engineering student at NIT Kurukshetra with passionate about Full St
 
 ### 💰 Expense Tracker Dashboard
 
-> An expense management application that allows users to track income and expenses, visualize spending trends, and manage personal finances.
+> A full-stack expense management application that enables users to track income and expenses, visualize spending trends, and manage personal finances through an interactive dashboard.
 
 #### Features
 
@@ -55,7 +55,7 @@ React • Node.js • Express • MongoDB • JWT • Chart.js
 
 ---
 
-### Task Management System
+### ✅ Task Management System
 
 A productivity-focused task management application designed to help users organize projects, manage tasks, and monitor progress with a clean and responsive interface.
 
@@ -100,30 +100,34 @@ React • Node.js • Express • MongoDB • JWT
 
 ## 🎯 Current Focus
 
-- Building Full Stack Applications
-- Strengthening Backend Development
-- Exploring Docker
-- Learning System Design Fundamentals
-- Practicing Data Structures & Algorithms
+- 🚀 Building Full Stack Applications
+- ⚙️ Strengthening Backend Development
+- 🐳 Exploring Docker
+- 📚 Learning System Design
+- 💻 Practicing Data Structures & Algorithms
 
 ---
 
 ## 📜 Certifications & Achievements
 
 - 💯 Solved 100+ DSA problems
-- 🥇 Hackathon Participant
 - 🎖️ NPTEL / Coursera Certifications
 
 ---
 
 ## 🤝 Connect With Me
 
-<p>
-<a href="https://linkedin.com/in/harsh-sharma-06a823375">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<p align="center">
+<a href="https://linkedin.com/in/harsh-sharma0190/">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 </a>
+  
 <a href="mailto:hsfbd123@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+</a>
+
+<a href="https://github.com/harsh0190">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
 </a>
 </p>
 
