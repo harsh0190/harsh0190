@@ -8,6 +8,43 @@
 
 I'm an Electronics Engineering student at **NIT Kurukshetra** passionate about building scalable full-stack web applications and continuously improving my software development skills.
 
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 🌱 Learning
+React, Node.js<br>
+PostgreSQL<br>
+TypeScript
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀 Interests
+Scalable Web Applications<br>
+Backend Architecture
+
+</td>
+
+<td align="center" width="25%">
+
+### 📚 Exploring
+System Design<br>
+Cloud Computing
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎯 Goal
+Becoming a <br> 
+Software Engineer
+
+</td>
+</tr>
+</table>
+
 | 🌱 Learning | 🚀 Interested In | 📚 Exploring | 🎯 Working Towards |
 |:-----------:|:----------------:|:------------:|:-------:|
 | React, Node.js,<br>PostgreSQL & TypeScript | Scalable Web Applications<br>and Backend Architecture | System Design<br>& Cloud Computing | Becoming a<br>Software Engineer |
