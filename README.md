@@ -12,7 +12,7 @@ I'm an Electronics Engineering student at **NIT Kurukshetra** with a passion for
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript,html,css,react,tailwind,nodejs,express,mongodb,postgresql,mysql,git,github,vscode,postman,docker" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript,html,css,react,tailwind,nextjs,nodejs,express,mongodb,postgresql,mysql,git,linux,github,vscode,postman,docker" />
 </p>
 
 ---
