@@ -27,13 +27,21 @@ I'm an Electronics Engineering student at **NIT Kurukshetra** passionate about b
 
 ## 🛠 Technical Expertise
 
-| **Category** | **Technologies** |
-|----------|--------------|
-| Languages | <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp" /> |
-| Frontend | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" /> |
-| Backend | <img src="https://skillicons.dev/icons?i=nodejs,express" /> |
-| Databases | <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" /> |
-| Tools | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" /> |
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 
 ---
 
