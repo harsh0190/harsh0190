@@ -4,40 +4,20 @@
 
 ## 👋 Introduction
 
-I'm an Electronics Engineering student at **NIT Kurukshetra** passionate about building scalable full-stack web applications and continuously improving my software development skills.
+I'm an Electronics Engineering student at **NIT Kurukshetra** with a passion for building scalable full-stack web applications and continuously expanding my software engineering expertise.
+- 💯 Solved 100+ DSA problems across coding platforms
+- 🎖️ NIELIT - Embedded Systems Certification
+- 💼 Full Stack Development Intern - CodTech IT Solutions Pvt. Ltd.
 
-<table align="center" border="0">
-<tr>
-  
-<td align="center" width="25%">
-🌱 Learning <br> React, Node.js, PostgreSQL & TypeScript
-</td>
-<td align="center" width="25%">
-🚀 Interested in <br> Scalable Web Applications & Backend Architecture
-</td>
-<td align="center" width="25%">
-📚 Exploring <br> System Design & Cloud Computing
-</td>
-<td align="center" width="25%">
-🎯 Working towards <br> Becoming a Software Engineer
-</td>
-
-</tr>
-</table>
-
-## 🛠 Technical Expertise
+## 💻 Tech Stack
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript" />
 
-**Frontend**
+**Full Stack**
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,mongodb,postgresql,mysql" />
 
 **Tools**
 
@@ -108,31 +88,17 @@ React • Node.js • Express • MongoDB • JWT
 
 ---
 
-## 🎯 Current Focus
-
-- 🚀 Building Full Stack Applications
-- ⚙️ Strengthening Backend Development
-- 🐳 Exploring Docker
-- 📚 Learning System Design
-- 💻 Practicing Data Structures & Algorithms
-
-## 📜 Certifications & Achievements
-
-- 💯 Solved 100+ DSA problems on LeetCode
-- 🎖️ NIELIT - Embedded Systems Certification
-- 💼 Full Stack Development Intern - CodTech IT Solutions Pvt. Ltd.
-
-
 ## 🤝 Connect With Me
+
 <p align="center">
 <a href="https://linkedin.com/in/harsh-sharma0190/">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 </a>
-  
+&nbsp;&nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hsfbd123@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://github.com/harsh0190">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
