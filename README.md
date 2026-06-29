@@ -1,5 +1,7 @@
 <h1 align="center">Harsh Sharma</h1>
 
+<p align="center"> <a href="https://github.com/harsh0190"> <img src="https://img.shields.io/badge/GitHub-harsh0190-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+
 <p align="center">
 Full Stack Developer | MERN Stack | Problem Solver
 <br>
@@ -79,15 +81,14 @@ React • Node.js • Express • MongoDB • JWT
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsh0190&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://streak-stats.demolab.com?user=harsh0190&theme=github-dark&hide_border=true"/>
+<p align="center"> 
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=harsh0190&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/> 
+  <img height="170" src="https://streak-stats.demolab.com?user=harsh0190&theme=github-dark&hide_border=true"/> 
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh0190&layout=compact&theme=github_dark&hide_border=true"/>
+<p align="center"> 
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh0190&layout=compact&theme=github_dark&hide_border=true"/> 
 </p>
-
 ---
 
 ## 📊 Contribution Activity
