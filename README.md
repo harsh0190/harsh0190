@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-
-<h3 align="center">
-Full Stack Developer • MERN & PERN Stack • Open Source Enthusiast
-</h3>
+<h1 align="center">HARSH SHARMA</h1>
 
 <p align="center">
+Full Stack Developer | MERN Stack | Problem Solver
+<br>
 Building scalable web applications and continuously learning modern technologies.
 </p>
 
@@ -12,63 +10,44 @@ Building scalable web applications and continuously learning modern technologies
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student
-- 💼 Aspiring Full Stack Developer
-- 🌱 Currently learning **React, Node.js, PostgreSQL, TypeScript**
+Electronics Engineering student at NIT Kurukshetra with passionate about Full Stack Development.
+
+- 🌱 Learning React, Node.js, PostgreSQL & TypeScript
 - 🚀 Interested in scalable web applications and backend architecture
-- 📚 Exploring System Design and Cloud Computing
-- 🎯 Goal: Become a Software Engineer
+- 📚 Exploring System Design & Cloud Computing
+- 🎯 Working towards becoming a Software Engineer
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,c,cpp"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql"/>
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,firebase,docker"/>
-</p>
+| Category | Technologies |
+|----------|--------------|
+| Languages | <img src="https://skillicons.dev/icons?i=javascript,typescript,python,cpp" /> |
+| Frontend | <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" /> |
+| Backend | <img src="https://skillicons.dev/icons?i=nodejs,express" /> |
+| Database | <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" /> |
+| Tools | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" /> |
 
 ---
 
 ## 🚀 Featured Projects
 
-### Expense Tracker Dashboard
+### 💰 Expense Tracker Dashboard
 
-> MERN Stack application with authentication, analytics, expense management, and dark mode.
+> An expense management application that allows users to track income and expenses, visualize spending trends, and manage personal finances.
 
-**Tech Used**
+#### Features
 
-- React
-- Node.js
-- Express
-- MongoDB
-- JWT
-- Chart.js
+- JWT Authentication
+- Dashboard Analytics
+- Expense Categories
+- Monthly Reports
+- Responsive UI
+
+#### Tech Stack
+
+React • Node.js • Express • MongoDB • JWT • Chart.js
 
 🔗 Live Demo
 
@@ -78,23 +57,19 @@ Building scalable web applications and continuously learning modern technologies
 
 ### Task Management System
 
-A responsive task management application with authentication and CRUD functionality.
+A productivity-focused task management application designed to help users organize projects, manage tasks, and monitor progress with a clean and responsive interface.
 
-**Tech Used**
+#### Features
 
-- React
-- Express
-- MongoDB
+- JWT Authentication
+- Create, Edit & Delete Tasks
+- Task Priorities & Status Tracking
+- Search & Filter Tasks
+- Responsive UI
 
-🔗 Live Demo
+#### Tech Stack
 
-🔗 Repository
-
----
-
-### Weather Application
-
-Weather application using REST APIs with responsive UI.
+React • Node.js • Express • MongoDB • JWT
 
 🔗 Live Demo
 
@@ -105,15 +80,12 @@ Weather application using REST APIs with responsive UI.
 ## 📈 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harsh0190&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=harsh0190&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh0190&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
@@ -121,9 +93,7 @@ Weather application using REST APIs with responsive UI.
 ## 📊 Contribution Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh0190&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -131,48 +101,30 @@ Weather application using REST APIs with responsive UI.
 ## 🎯 Current Focus
 
 - Building Full Stack Applications
-- Learning TypeScript
+- Strengthening Backend Development
 - Exploring Docker
-- Backend Development
-- System Design Fundamentals
+- Learning System Design Fundamentals
+- Practicing Data Structures & Algorithms
 
 ---
 
-## 🏆 Achievements
+## 📜 Certifications & Achievements
 
-- 🌟 Consistently building personal projects
-- 💻 Active GitHub contributor
-- 📚 Continuous learner
-- 🚀 Expanding full-stack development skills
+- 💯 Solved 100+ DSA problems
+- 🥇 Hackathon Participant
+- 🎖️ NPTEL / Coursera Certifications
 
 ---
 
 ## 🤝 Connect With Me
 
 <p>
-
-<a href="https://linkedin.com/in/YOUR_USERNAME">
+<a href="https://linkedin.com/in/harsh-sharma-06a823375">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:hsfbd123@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-
-<a href="https://twitter.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-
-<a href="https://YOUR_PORTFOLIO.com">
-🌐 Portfolio
-</a>
-
 </p>
 
 ---
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=flat-square"/>
-
-</p>
