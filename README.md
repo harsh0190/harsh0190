@@ -11,17 +11,9 @@ I'm an Electronics Engineering student at **NIT Kurukshetra** with a passion for
 
 ## 💻 Tech Stack
 
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript" />
-
-**Full Stack**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,mongodb,postgresql,mysql" />
-
-**Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript,html,css,react,tailwind,nodejs,express,mongodb,postgresql,mysql,git,github,vscode,postman,docker" />
+</p>
 
 ---
 
@@ -78,17 +70,10 @@ React • Node.js • Express • MongoDB • JWT
 
 <p align="center"> 
   <img height="170" src="https://streak-stats.demolab.com?user=harsh0190&theme=github-dark&hide_border=true"/>  
-</p>
-
-## 📊 Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh0190&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh0190&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
-
-## 🤝 Connect With Me
 
 <p align="center">
 <a href="https://linkedin.com/in/harsh-sharma0190/">
@@ -105,7 +90,7 @@ React • Node.js • Express • MongoDB • JWT
 </p>
 
 <p align="center">
-Thanks for visiting 😊
+Thanks for visiting! 😊
 <br>
-Feel free to explore my repositories and connect with me.⭐
+Feel free to explore my repositories and connect with me. 🤝
 </p>
