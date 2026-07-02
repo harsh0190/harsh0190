@@ -93,7 +93,7 @@ React • Node.js • Express • MongoDB • JWT
 </a>
 &nbsp;&nbsp;
 <a href="https://leetcode.com/u/harsh0190/" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode" height="48" width="48" alt="LeetCode"/>
+  <img src="leetcode-icon.png" height="48" width="48" alt="LeetCode"/>
 </a>
 </p>
 
