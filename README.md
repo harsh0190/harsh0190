@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Harsh Sharma Banner" width="100%">
+  <img src="banner.png" alt="Harsh Sharma Banner" width="100%" height="250">
 </p>
 
 ## 👋 Introduction
@@ -70,11 +70,11 @@ React • Node.js • Express • MongoDB • JWT
 
 <p align="center"> 
   <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=harsh0190&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-  <img height="160" src="https://streak-stats.demolab.com?user=harsh0190&theme=github-dark&hide_border=true" width="420"/>   
+  <img height="160" src="https://streak-stats.demolab.com?user=harsh0190&theme=github-dark&hide_border=true" width="350"/>   
 </p>
 
 <p align="center"> 
-  <img height="190" src="https://github-readme-activity-graph.vercel.app/graph?username=harsh0190&theme=github-dark&hide_border=true" width="425"/>
+  <img height="170" src="https://github-readme-activity-graph.vercel.app/graph?username=harsh0190&theme=github-dark&hide_border=true" width="425"/>
   <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=harsh0190&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
