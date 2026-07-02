@@ -74,8 +74,8 @@ React • Node.js • Express • MongoDB • JWT
 </p>
 
 <p align="center"> 
-  <img height="175" src="https://github-readme-activity-graph.vercel.app/graph?username=harsh0190&theme=github-dark&hide_border=true" width="500"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=harsh0190&theme=github-dark&hide_border=true"  width="432.5"/>  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh0190&theme=github-dark&hide_border=true" width="450"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=harsh0190&theme=github-dark&hide_border=true"/>  
 </p>
 
 ---
