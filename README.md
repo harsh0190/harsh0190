@@ -82,12 +82,6 @@ React • Node.js • Express • MongoDB • JWT
 <a href="https://github.com/harsh0190">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
-<a href="https://leetcode.com/u/harsh0190/" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" width="48" height="48"/>
-</a>
-<a href="https://leetcode.com/u/harsh0190/">
-  <img src="[https://skillicons.dev/icons?i=leetcode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)" alt="LeetCode"/>
-</a>
 </p>
 
 <p align="center">
