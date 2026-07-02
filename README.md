@@ -69,13 +69,13 @@ React • Node.js • Express • MongoDB • JWT
 ## 📈 GitHub Analytics
 
 <p align="center"> 
-  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=harsh0190&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/> 
-  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=harsh0190&layout=compact&theme=github_dark&hide_border=true"/> 
+  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api?username=harsh0190&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=harsh0190&theme=github-dark&hide_border=true"/>   
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh0190&theme=github-dark&hide_border=true" width="450"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=harsh0190&theme=github-dark&hide_border=true"/>  
+  <img height="175" src="https://github-readme-activity-graph.vercel.app/graph?username=harsh0190&theme=github-dark&hide_border=true" width="420"/>
+  <img height="170" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=harsh0190&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
