@@ -5,8 +5,17 @@
 ## 👋 Introduction
 
 I'm an Electronics Engineering student at **NIT Kurukshetra** with a passion for building scalable full-stack web applications and continuously expanding my software engineering expertise.
-- 💯 Solved 100+ DSA problems across coding platforms
+- 💯 Solved 200+ DSA problems across coding platforms
 - 💼 Full Stack Development Intern - CodTech IT Solutions Pvt. Ltd.
+
+## 🌱 Currently Learning
+
+- ⚡ Next.js & TypeScript for building scalable, type-safe, and production-ready React applications.
+- 🏗️ Backend Architecture & REST API Design with a focus on clean coding practices and secure, maintainable APIs.
+- 🐳 Docker & Containerization for creating consistent development and deployment environments.
+- ☁️ Deployment with Vercel & Render to streamline the deployment of full-stack applications.
+- 🏛️ System Design Fundamentals, including scalability, caching, load balancing, databases, and microservices.
+- 🤖 AI Tools & API Integration for building intelligent features using AI models and automation APIs.
 
 ## 💻 Tech Stack
 
@@ -22,38 +31,38 @@ I'm an Electronics Engineering student at **NIT Kurukshetra** with a passion for
 
 > A full-stack expense management application that enables users to track income and expenses, visualize spending trends, and manage personal finances through an interactive dashboard.
 
-#### Features
+#### Features :
 
 - JWT Authentication
 - Dashboard Analytics
 - Expense Categories
 - Monthly Reports
 
-#### Tech Stack
+#### Tech Stack :
 
 React • Node.js • Express • MongoDB • JWT • Chart.js
 
-🔗 Live Demo
+🌐 Live Demo
 
-🔗 Repository
+📂 Source Code
 
 ### ✅ Task Management System
 
 > A productivity-focused task management application that helps users organize, prioritize, and track tasks through a clean and responsive interface.
 
-#### Features
+#### Features :
 
 - JWT Authentication
 - Create, Edit, Delete, Search & Filter Tasks
 - Task Priorities & Status Tracking
 
-#### Tech Stack
+#### Tech Stack :
 
 React • Node.js • Express • MongoDB • JWT
 
-🔗 Live Demo
+🌐 Live Demo
 
-🔗 Repository
+📂 Source Code
 
 ---
 
@@ -65,6 +74,7 @@ React • Node.js • Express • MongoDB • JWT
 </p>
 
 <p align="center"> 
+  <img height="175" src="https://github-readme-activity-graph.vercel.app/graph?username=harsh0190&theme=github-dark&hide_border=true" width="500"/>
   <img height="170" src="https://streak-stats.demolab.com?user=harsh0190&theme=github-dark&hide_border=true"/>  
 </p>
 
@@ -80,10 +90,14 @@ React • Node.js • Express • MongoDB • JWT
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/harsh0190">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/u/harsh0190/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode" height="48" width="48" alt="LeetCode"/>
 </a>
 </p>
 
 <p align="center">
-Feel free to explore my repositories and connect with me. 🤝
+Thanks for visiting my profile!😊 Feel free to explore my repositories and connect with me.🤝
 </p>
