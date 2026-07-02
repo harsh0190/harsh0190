@@ -29,7 +29,6 @@ I'm an Electronics Engineering student at **NIT Kurukshetra** with a passion for
 - Dashboard Analytics
 - Expense Categories
 - Monthly Reports
-- Responsive UI
 
 #### Tech Stack
 
@@ -46,10 +45,8 @@ React • Node.js • Express • MongoDB • JWT • Chart.js
 #### Features
 
 - JWT Authentication
-- Create, Edit & Delete Tasks
+- Create, Edit, Delete, Search & Filter Tasks
 - Task Priorities & Status Tracking
-- Search & Filter Tasks
-- Responsive UI
 
 #### Tech Stack
 
@@ -70,7 +67,6 @@ React • Node.js • Express • MongoDB • JWT
 
 <p align="center"> 
   <img height="170" src="https://streak-stats.demolab.com?user=harsh0190&theme=github-dark&hide_border=true"/>  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harsh0190&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -90,7 +86,5 @@ React • Node.js • Express • MongoDB • JWT
 </p>
 
 <p align="center">
-Thanks for visiting! 😊
-<br>
 Feel free to explore my repositories and connect with me. 🤝
 </p>
