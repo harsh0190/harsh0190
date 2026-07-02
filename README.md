@@ -6,7 +6,6 @@
 
 I'm an Electronics Engineering student at **NIT Kurukshetra** with a passion for building scalable full-stack web applications and continuously expanding my software engineering expertise.
 - 💯 Solved 100+ DSA problems across coding platforms
-- 🎖️ NIELIT - Embedded Systems Certification
 - 💼 Full Stack Development Intern - CodTech IT Solutions Pvt. Ltd.
 
 ## 💻 Tech Stack
@@ -72,16 +71,22 @@ React • Node.js • Express • MongoDB • JWT
 ---
 
 <p align="center">
-<a href="https://linkedin.com/in/harsh-sharma0190/">
+<a href="https://linkedin.com/in/harsh-sharma0190/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hsfbd123@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=hsfbd123@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/harsh0190">
 <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+<a href="https://leetcode.com/u/harsh0190/" target="_blank">
+  <img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" width="48" height="48"/>
+</a>
+<a href="https://leetcode.com/u/harsh0190/">
+  <img src="[https://skillicons.dev/icons?i=leetcode](https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white)" alt="LeetCode"/>
 </a>
 </p>
 
