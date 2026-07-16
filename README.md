@@ -17,10 +17,21 @@ I'm an Electronics Engineering student at **NIT Kurukshetra** with a passion for
 - 🏛️ System Design Fundamentals, including scalability, caching, load balancing, databases, and microservices.
 - 🤖 AI Tools & API Integration for building intelligent features using AI models and automation APIs.
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
+### 💻 Programming Languages
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript,html,css,react,tailwind,nextjs,nodejs,express,mongodb,postgresql,mysql,git,linux,github,vscode,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,typescript" />
+</p>
+
+### ⚛️ Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,mysql" />
+</p>
+  
+### 🧰 Developer Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
 </p>
 
 ---
@@ -30,6 +41,10 @@ I'm an Electronics Engineering student at **NIT Kurukshetra** with a passion for
 ## 📋 FlowBoard - Project Management SaaS
 
 > A modern full-stack project management platform built with the MERN stack, featuring workspaces, Kanban boards, team collaboration, real-time notifications, and project analytics.
+
+<p align="center">
+  <img src="/flowboard-dashboard.jpg" alt="FlowBoard Dashboard" width="100%">
+</p>
 
 #### Features :
 
