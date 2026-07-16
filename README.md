@@ -26,12 +26,12 @@ I'm an Electronics Engineering student at **NIT Kurukshetra** with a passion for
 
 ### ⚛️ Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,nodejs,express,mongodb" />
 </p>
   
 ### 🧰 Developer Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" />
 </p>
 
 ---
