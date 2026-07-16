@@ -45,8 +45,10 @@ I'm an Electronics Engineering student at **NIT Kurukshetra** with a passion for
 React • TypeScript • Vite • Redux Toolkit • Tailwind CSS • Node.js • Express • MongoDB • Socket.IO • JWT
 
 🌐 **Live Demo**
+https://flowboard-workspace.vercel.app
 
 📂 **Source Code**
+https://github.com/harsh0190/FlowBoard
 
 ---
 
