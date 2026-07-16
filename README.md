@@ -27,42 +27,26 @@ I'm an Electronics Engineering student at **NIT Kurukshetra** with a passion for
 
 ## 🚀 Featured Projects
 
-### 💰 Expense Tracker Dashboard
+## 📋 FlowBoard - Project Management SaaS
 
-> A full-stack expense management application that enables users to track income and expenses, visualize spending trends, and manage personal finances through an interactive dashboard.
+> A modern full-stack project management platform built with the MERN stack, featuring workspaces, Kanban boards, team collaboration, real-time notifications, and project analytics.
 
 #### Features :
 
 - JWT Authentication
+- Multi-Workspace Management
+- Role-Based Team Collaboration
+- Kanban Task Board (Drag & Drop)
+- Real-Time Notifications
 - Dashboard Analytics
-- Expense Categories
-- Monthly Reports
 
 #### Tech Stack :
 
-React • Node.js • Express • MongoDB • JWT • Chart.js
+React • TypeScript • Vite • Redux Toolkit • Tailwind CSS • Node.js • Express • MongoDB • Socket.IO • JWT
 
-🌐 Live Demo
+🌐 **Live Demo**
 
-📂 Source Code
-
-### ✅ Task Management System
-
-> A productivity-focused task management application that helps users organize, prioritize, and track tasks through a clean and responsive interface.
-
-#### Features :
-
-- JWT Authentication
-- Create, Edit, Delete, Search & Filter Tasks
-- Task Priorities & Status Tracking
-
-#### Tech Stack :
-
-React • Node.js • Express • MongoDB • JWT
-
-🌐 Live Demo
-
-📂 Source Code
+📂 **Source Code**
 
 ---
 
